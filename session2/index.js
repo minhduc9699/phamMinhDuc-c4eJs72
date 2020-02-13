@@ -31,5 +31,4 @@ if(delta < 0) {
   let x1 = (delta**0.5 - b) / (2*a)
   let x2 = (delta**0.5 + b) / (2*a)
   console.log(`pt có 2 nghiệm x1=${x1} x2=${x2}`)
-  console.log('pt có 2 nghiệm x1=', x1, 'x2=', x2);
 }
